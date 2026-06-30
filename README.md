@@ -400,24 +400,3 @@ Top 3 matching topics are assigned to each article. Relevance score (50–100) i
 ### 3. News Feed
 > Filtered news with relevance scores, topic tags, audio controls, and download options
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "feat: add your feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-*This project is a part of a hackathon run by [Katomaran](https://katomaran.com)*
