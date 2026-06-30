@@ -392,11 +392,17 @@ Top 3 matching topics are assigned to each article. Relevance score (50–100) i
 ## 🖼️ Screenshots
 
 ### 1. Home Page
+
+![image alt](https://github.com/Arul-2004/AI-Powered-News-Summarizer/blob/main/Screenshot%202026-06-30%20154932.png?raw=true)
+
 > Exam selector with category cards for UPSC, TNPSC, SSC, Railways, State PSC
 
 ### 2. User Authentication
 > Login and Signup with JWT-based session management
 
 ### 3. News Feed
+
+![image alt](https://github.com/Arul-2004/AI-Powered-News-Summarizer/blob/main/Screenshot%202026-06-30%20155140.png?raw=true)
+
 > Filtered news with relevance scores, topic tags, audio controls, and download options
 
