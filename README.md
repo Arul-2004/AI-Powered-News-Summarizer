@@ -398,6 +398,9 @@ Top 3 matching topics are assigned to each article. Relevance score (50–100) i
 > Exam selector with category cards for UPSC, TNPSC, SSC, Railways, State PSC
 
 ### 2. User Authentication
+
+![image alt](https://github.com/Arul-2004/AI-Powered-News-Summarizer/blob/main/Screenshot%202026-06-30%20155729.png?raw=true)
+
 > Login and Signup with JWT-based session management
 
 ### 3. News Feed
